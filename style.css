@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #bad3a1;
-    color:#9bb671;
+    background-color: #a3b5ab;
+    color:#b67180;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -35,7 +35,7 @@ body {
 
 #escola{
     background-image: linear-gradient#b4c883,#aabe87;
-    color:rgb(129, 152, 94);
+    color:#81985e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +81,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: #8696a7;
     text-align: center;
 }
 
